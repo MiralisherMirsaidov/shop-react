@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.row {
+    height: 100vh;
+}
+
+.col-5 {
+    padding-top: 80px;
+
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 600px;
+    border-radius: 49px;
+    box-shadow: 27px 27px 72px;
+}
+
+.ebay {
+    width: 100px;
+    display: block;
+    padding-left: 0 !important;
+}
+
+.col-7 {
+    height: 100% !important;
+    background-color: #9BBADB;
+}
